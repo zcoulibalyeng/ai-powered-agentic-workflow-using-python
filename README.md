@@ -121,7 +121,7 @@ A sample output from the Email Router pilot is in `output/complete-workflow-outp
 ### Installation
 
 ```bash
-git clone https://github.com/zcoulibalyeng/ai-powered-agentic-workflow.git
+git clone https://github.com/zcoulibalyeng/ai-powered-agentic-workflow-using-python.git
 cd ai-powered-agentic-workflow
 
 python -m venv venv
