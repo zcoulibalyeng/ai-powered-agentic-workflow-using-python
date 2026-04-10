@@ -1,0 +1,5 @@
+venv/
+.env
+chunks-20260410_011054_da3d5c7a.csv
+embeddings-20260410_011054_da3d5c7a.csv
+.idea/
